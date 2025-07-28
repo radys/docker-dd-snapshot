@@ -17,7 +17,7 @@ The script handles common challenges such as timezone differences between the ho
 
 ---
 
-## ⚙️ Process Overview
+## Process Overview
 
 The process is divided into two main parts:
 
